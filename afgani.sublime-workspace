@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"su",
+				"success"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ng",
+				"ngRoute"
+			],
+			[
+				"fotn",
+				"font-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"vie",
+				"viewLocation"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Font",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"imag",
+				"imageSlider"
+			],
+			[
+				"obj",
+				"objImg"
+			],
+			[
+				"BO",
+				"bootstrapUI"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"htt",
+				"httpDefault"
+			],
+			[
+				"data",
+				"dataService"
+			],
+			[
+				"app",
+				"appName"
+			],
+			[
+				"NG",
+				"ngAnimate"
+			],
+			[
+				"expe",
+				"experience"
+			],
+			[
+				"ex",
+				"experiencia"
+			],
+			[
+				"e",
+				"experiencia"
+			],
+			[
+				"exp",
+				"ExperienciaCtrl"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"focus",
+				"focusBody"
+			],
+			[
+				"add",
+				"addEvent"
+			],
+			[
+				"clic",
+				"clickBody"
+			],
+			[
+				"txt",
+				"txtArea"
+			],
+			[
+				"spell",
+				"spellit"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bower",
+				"bowerDir"
+			],
+			[
+				"title",
+				"titlePage"
+			],
+			[
+				"meta",
+				"metaDescription"
+			],
+			[
+				"br",
+				"browser-sync"
+			],
+			[
+				"brow",
+				"browserSync"
+			],
+			[
+				"bre",
+				"browserSync"
+			],
+			[
+				"pre",
+				"prettyfy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/src/js/app/app.js",
+			"settings":
+			{
+				"buffer_size": 253,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 5796,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1024,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 345.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"gulp",
+				"Gulp"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/MAMP/htdocs/afganiFinal",
+		"/C/MAMP/htdocs/afganiFinal/bower_components",
+		"/C/MAMP/htdocs/afganiFinal/bower_components/angular",
+		"/C/MAMP/htdocs/afganiFinal/node_modules",
+		"/C/MAMP/htdocs/afganiFinal/public",
+		"/C/MAMP/htdocs/afganiFinal/public/src",
+		"/C/MAMP/htdocs/afganiFinal/public/src/data",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/AcercaDe",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/Proyectos",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/shared",
+		"/C/MAMP/htdocs/afganiFinal/public/src/scss"
+	],
+	"file_history":
+	[
+		"/C/Users/yadira.cisneros/Downloads/experience.json",
+		"/C/MAMP/htdocs/afganiFinal/gulpfile.js",
+		"/C/MAMP/htdocs/afganiFinal/karma.conf.js",
+		"/C/MAMP/htdocs/afganiFinal/specs/Acerca-De-spec.js",
+		"/C/MAMP/htdocs/afganiFinal/SpecRunner.html",
+		"/C/MAMP/htdocs/afganiFinal/node_modules/karma/lib/reporters/base.js",
+		"/C/MAMP/htdocs/afganiFinal/public/dist/js/script.js",
+		"/C/MAMP/htdocs/afganiFinal/package.json",
+		"/C/MAMP/htdocs/afganiFinal/tests/example.js",
+		"/C/MAMP/htdocs/afganiFinal/public/dist/js/vendor.js",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/Proyectos/Proyectos-view.html",
+		"/C/MAMP/htdocs/afganiFinal/public/src/data/projects.json",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/Proyectos/DetalleProyecto-view.html",
+		"/C/MAMP/htdocs/afganiFinal/public/src/scss/styles.scss",
+		"/C/MAMP/htdocs/afganiFinal/public/dist/css/styles.css",
+		"/C/MAMP/htdocs/afganiFinal/public/src/scss/animation.scss",
+		"/C/MAMP/htdocs/afganiFinal/public/src/data/contact.json",
+		"/C/MAMP/htdocs/afganiFinal/public/src/scss/scaffolding.scss",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/directives.js",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/Contacto/Contacto-css.scss",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/AcercaDe/AcercaDe-view.html",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/AcercaDe/AcercaDe-css.scss",
+		"/C/MAMP/htdocs/afganiFinal/public/src/data/home.json",
+		"/C/MAMP/htdocs/afganiFinal/public/dist/data/home.json",
+		"/C/MAMP/htdocs/afganiFinal/public/dist/js/app/components/AcercaDe/AcercaDe-view.html",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/Servicios/Servicios-view.html",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/Experiencia/Experiencia-view.html",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/DesarrollosInmobiliarios/DesarrollosInmobiliarios-view.html",
+		"/C/MAMP/htdocs/afganiFinal/public/src/js/app/components/Contacto/Contacto-view.html",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/ctrlServicios.js",
+		"/C/MAMP/htdocs/afganiOk/src/views/servicios.html",
+		"/C/MAMP/htdocs/afganiOk/src/views/desarrollos.html",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/ctrlProyectos.js",
+		"/C/MAMP/htdocs/afganiOk/index.html",
+		"/C/MAMP/htdocs/afganiOk/src/views/detalleProyecto.html",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/ctrlMenu.js",
+		"/C/MAMP/htdocs/afganiOk/src/data/desarrollos.json",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/ctrlDesarrollos.js",
+		"/C/MAMP/htdocs/afganiOk/src/data/menu.json",
+		"/C/MAMP/htdocs/afganiOk/src/data/projects.json",
+		"/C/MAMP/htdocs/afganiOk/src/views/proyectos.html",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/config.js",
+		"/C/MAMP/htdocs/afganiOk/src/views/experiencia.html",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/ctrlExperiencia.js",
+		"/C/MAMP/htdocs/afganiOk/src/data/experience.json",
+		"/C/MAMP/htdocs/afganiOk/src/data/services.json",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/ctrlHome.js",
+		"/C/MAMP/htdocs/afganiOk/src/views/home.html",
+		"/C/MAMP/htdocs/afganiOk/src/data/home.json",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx-cs/src/scripts/app/app.js",
+		"/C/MAMP/htdocs/afganiOk/src/styles/styles.less",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/app.js",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/ctrlContacto.js",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/controllers.js",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/filters.js",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/main.js",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/appConfig.js",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/appScripts/controllers/menu.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx-cs/src/scripts/main.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/scripts.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx-one/src/scripts/appScripts/app.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mxAlt/src/scripts/scripts.js",
+		"/C/MAMP/htdocs/afganiOk/src/data/contact.json",
+		"/C/MAMP/htdocs/afganiOk/src/views/contacto.html",
+		"/C/MAMP/htdocs/afganiOk/afgani.sublime-project",
+		"/C/MAMP/htdocs/afganiOk/src/styles/mixins.less",
+		"/C/MAMP/htdocs/afganiOk/src/scripts/app.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/styles/styles.css",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/index.html",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/data/projects.json",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/views/proyectos.html",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/data/menu.json",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/views/modal.html",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/js-image-slider/js-image-slider.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/app.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/main.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/controllers/home.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/views/home.html",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/config.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/filter.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/controllers/menu.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/controllers/proyectos.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/controllers/experiencia.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/controllers/servicios.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/controllers/contacto.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/data.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/controllers.js",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/data/contact.json",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/scripts/app/data-service.js",
+		"/C/Users/yadira.cisneros/Downloads/afgani.mx/afgani.mx/src/scripts/app.js",
+		"/C/Users/yadira.cisneros/Downloads/jsImgSlider/jsImgSlider/demo1.html",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/views/experiencia.html",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/data/experience.json",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/data/home.json",
+		"/C/Users/yadira.cisneros/Documents/afgani.mx/src/views/servicios.html",
+		"/C/Users/yadira.cisneros/Documents/GitHub/af/gulpfile.js",
+		"/C/Users/yadira.cisneros/Google Drive/afni/src/templates/proyectos.html",
+		"/C/Users/yadira.cisneros/Google Drive/afni/src/templates/experiencia.html",
+		"/C/Users/yadira.cisneros/Google Drive/afni/src/templates/contacto.html",
+		"/C/Users/yadira.cisneros/Google Drive/afni/src/templates/home.html",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/jade/main/index.jade",
+		"/C/Users/yadira.cisneros/Documents/COLMET/gulpfile.js",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/jade/scaffolding/head.jade",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/jade/scaffolding/footer.jade",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/jade/scaffolding/variables.jade",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/less/mixin.less",
+		"/C/Users/yadira.cisneros/Documents/COLMET/package.json",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/jade/scaffolding/header.jade",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/scss/styles.scss",
+		"/C/Users/yadira.cisneros/Documents/COLMET/build/humans.txt",
+		"/C/Users/yadira.cisneros/Downloads/CssCheckboxKit_1444857136346595/demo.html",
+		"/C/Users/yadira.cisneros/Downloads/CssCheckboxKit_1444857136346595/style.css",
+		"/C/Users/yadira.cisneros/AppData/Roaming/Sublime Text 3/Packages/User/Gulp.sublime-settings",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/less/styles.less",
+		"/C/Users/yadira.cisneros/Documents/COLMET/bower.json",
+		"/C/Users/yadira.cisneros/Documents/COLMET/build/css/styles.css",
+		"/C/Users/yadira.cisneros/Documents/COLMET/build/index.html",
+		"/C/Users/yadira.cisneros/AppData/Roaming/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings",
+		"/C/Users/yadira.cisneros/AppData/Roaming/Sublime Text 3/Packages/List LESS Variables/Default (Windows).sublime-keymap",
+		"/C/Users/yadira.cisneros/AppData/Roaming/Sublime Text 3/Packages/Gulp/Default (Windows).sublime-keymap",
+		"/C/Users/yadira.cisneros/Documents/COLMET/src/jade/index.jade",
+		"/C/Users/yadira.cisneros/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"seccion-cover",
+			"@media",
+			"max-width",
+			"nav",
+			"12",
+			"home-values",
+			"detail",
+			"project",
+			"hr",
+			"staff",
+			"ngRoute",
+			"afganiapp",
+			"src",
+			"image\"",
+			"				\"description",
+			"			\"description\"",
+			"dateOfInit",
+			"\"text\"",
+			"jade"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/src/js/app/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3261,
+								3261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "afgani.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"public\\src\\js\\app\\app.js"
+			],
+			[
+				"base",
+				"node_modules\\karma\\lib\\reporters\\base.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"vendro",
+				"public\\dist\\js\\vendor.js"
+			],
+			[
+				"acerca",
+				"public\\src\\js\\app\\components\\AcercaDe\\AcercaDe-view.html"
+			],
+			[
+				"home",
+				"public\\dist\\data\\home.json"
+			],
+			[
+				"con",
+				"public\\src\\data\\contact.json"
+			],
+			[
+				"sty",
+				"public\\dist\\css\\styles.css"
+			],
+			[
+				"styl",
+				"public\\src\\scss\\styles.scss"
+			],
+			[
+				"dire",
+				"public\\src\\js\\app\\directives.js"
+			],
+			[
+				"contact",
+				"public\\src\\data\\contact.json"
+			],
+			[
+				"direct",
+				"public\\src\\js\\app\\directives.js"
+			],
+			[
+				"des",
+				"src\\scripts\\appScripts\\ctrlDesarrollos.js"
+			],
+			[
+				"ctr",
+				"src\\scripts\\appScripts\\ctrlMenu.js"
+			],
+			[
+				"menu",
+				"src\\data\\menu.json"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"pro",
+				"src\\scripts\\appScripts\\ctrlProyectos.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"serv",
+				"src\\scripts\\appScripts\\ctrlServicios.js"
+			],
+			[
+				"ser",
+				"src\\views\\servicios.html"
+			],
+			[
+				"cont",
+				"src\\views\\contacto.html"
+			],
+			[
+				"deta",
+				"src\\views\\detalleProyecto.html"
+			],
+			[
+				"ex",
+				"src\\scripts\\appScripts\\ctrlExperiencia.js"
+			],
+			[
+				"stye",
+				"src\\styles\\styles.less"
+			],
+			[
+				"conta",
+				"src\\views\\contacto.html"
+			],
+			[
+				"st",
+				"src\\styles\\styles.less"
+			],
+			[
+				"proje",
+				"src\\data\\projects.json"
+			],
+			[
+				"exp",
+				"src\\data\\experience.json"
+			],
+			[
+				"men",
+				"src\\scripts\\appScripts\\ctrlMenu.js"
+			],
+			[
+				"hom",
+				"src\\scripts\\appScripts\\ctrlHome.js"
+			],
+			[
+				"det",
+				"src\\views\\detalleProyecto.html"
+			],
+			[
+				"de",
+				"src\\views\\detalleProyecto.html"
+			],
+			[
+				"co",
+				"src\\data\\contact.json"
+			],
+			[
+				"conf",
+				"src\\scripts\\appScripts\\config.js"
+			],
+			[
+				"",
+				"afgani.sublime-project"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"var",
+				"src\\jade\\scaffolding\\variables.jade"
+			],
+			[
+				"head",
+				"src\\jade\\scaffolding\\head.jade"
+			],
+			[
+				"mixi",
+				"src\\less\\mixin.less"
+			],
+			[
+				"variables",
+				"src\\jade\\scaffolding\\variables.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
